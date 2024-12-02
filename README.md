@@ -18,10 +18,6 @@
 <h1> About Me: </h1>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
-
-
-
-
   - A passionate Self-taught Front-End developer
   - Currently learning New Technology by Self
   - I’m currently open for an Intern or a new job opportunity, this is:
@@ -124,8 +120,9 @@
 	  
 </p>
 
-
-----
+ <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+    <br>
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
