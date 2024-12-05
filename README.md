@@ -11,7 +11,7 @@
         alt="Typing SVG" /></a>
   </div>
   
- <br>
+ 
 <br>
 	
 <h1> About Me: </h1>
