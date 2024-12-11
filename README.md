@@ -50,8 +50,8 @@
 <p align="center">
  
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Tailwind-007396.svg?style=for-the-badge&logo=Tailwind&logoColor=white" 
-      alt="Tailwind"/> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white" 
+      alt="Java"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -73,6 +73,10 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
        </a>
+        <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Tailwind Css-007396.svg?style=for-the-badge&logo=Tailwind Css&logoColor=white" 
+      alt="Tailwind Css"/> 
+  </a>
 </p>
 
 <h3 align="center">### 👉 Frameworks</h3>
