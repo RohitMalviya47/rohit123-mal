@@ -21,7 +21,7 @@
   - Currently learning New Technology by Self
   - I’m currently open for an Intern or a new job opportunity, this is:
   - Add Your Email - git config --global user.email "malviyarohit66155@gmail.com"
-  - Add Your Username - git config --global user.name "rohit123-mal"
+  - Add Your Username - git config --global user.name "rohit123-mal"  
 
   <br><br>
 
